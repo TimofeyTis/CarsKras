@@ -1,0 +1,2686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d14" for="edge" attr.name="length" attr.type="string"/>
+<key id="d13" for="edge" attr.name="reversed" attr.type="string"/>
+<key id="d12" for="edge" attr.name="oneway" attr.type="string"/>
+<key id="d11" for="edge" attr.name="maxspeed" attr.type="string"/>
+<key id="d10" for="edge" attr.name="highway" attr.type="string"/>
+<key id="d9" for="edge" attr.name="name" attr.type="string"/>
+<key id="d8" for="edge" attr.name="lanes" attr.type="string"/>
+<key id="d7" for="edge" attr.name="osmid" attr.type="string"/>
+<key id="d6" for="node" attr.name="street_count" attr.type="string"/>
+<key id="d5" for="node" attr.name="highway" attr.type="string"/>
+<key id="d4" for="node" attr.name="x" attr.type="string"/>
+<key id="d3" for="node" attr.name="y" attr.type="string"/>
+<key id="d2" for="graph" attr.name="crs" attr.type="string"/>
+<key id="d1" for="graph" attr.name="created_with" attr.type="string"/>
+<key id="d0" for="graph" attr.name="created_date" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">2023-06-21 19:55:31</data>
+<data key="d1">OSMnx 1.3.0</data>
+<data key="d2">epsg:4326</data>
+<node id="315787799">
+  <data key="d3">56.0186074</data>
+  <data key="d4">92.7942737</data>
+  <data key="d5">traffic_signals</data>
+  <data key="d6">5</data>
+</node>
+<node id="346110684">
+  <data key="d3">56.0154838</data>
+  <data key="d4">92.7883775</data>
+  <data key="d5">traffic_signals</data>
+  <data key="d6">3</data>
+</node>
+<node id="346112168">
+  <data key="d3">56.0179039</data>
+  <data key="d4">92.7862175</data>
+  <data key="d6">3</data>
+</node>
+<node id="346112280">
+  <data key="d3">56.0160306</data>
+  <data key="d4">92.7894399</data>
+  <data key="d5">traffic_signals</data>
+  <data key="d6">3</data>
+</node>
+<node id="346112282">
+  <data key="d3">56.0149209</data>
+  <data key="d4">92.7873092</data>
+  <data key="d6">3</data>
+</node>
+<node id="346112284">
+  <data key="d3">56.0137192</data>
+  <data key="d4">92.7851903</data>
+  <data key="d6">2</data>
+</node>
+<node id="357993030">
+  <data key="d3">56.0166809</data>
+  <data key="d4">92.7883305</data>
+  <data key="d6">2</data>
+</node>
+<node id="358000023">
+  <data key="d3">56.0164462</data>
+  <data key="d4">92.7801626</data>
+  <data key="d6">3</data>
+</node>
+<node id="418534601">
+  <data key="d3">56.0150718</data>
+  <data key="d4">92.8001824</data>
+  <data key="d6">3</data>
+</node>
+<node id="418534645">
+  <data key="d3">56.0151503</data>
+  <data key="d4">92.7915082</data>
+  <data key="d6">2</data>
+</node>
+<node id="418534649">
+  <data key="d3">56.0157252</data>
+  <data key="d4">92.7904142</data>
+  <data key="d6">2</data>
+</node>
+<node id="429527125">
+  <data key="d3">56.0190317</data>
+  <data key="d4">92.7842784</data>
+  <data key="d6">3</data>
+</node>
+<node id="518840514">
+  <data key="d3">56.0161246</data>
+  <data key="d4">92.7896323</data>
+  <data key="d6">3</data>
+</node>
+<node id="763928475">
+  <data key="d3">56.0197491</data>
+  <data key="d4">92.7964041</data>
+  <data key="d6">3</data>
+</node>
+<node id="763928498">
+  <data key="d3">56.0195368</data>
+  <data key="d4">92.796005</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="1111843672">
+  <data key="d3">56.0168249</data>
+  <data key="d4">92.7955633</data>
+  <data key="d6">2</data>
+</node>
+<node id="1111843829">
+  <data key="d3">56.0147725</data>
+  <data key="d4">92.7928411</data>
+  <data key="d6">3</data>
+</node>
+<node id="1111843880">
+  <data key="d3">56.0172592</data>
+  <data key="d4">92.7963369</data>
+  <data key="d6">3</data>
+</node>
+<node id="1305622625">
+  <data key="d3">56.0160759</data>
+  <data key="d4">92.7895341</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="1305622654">
+  <data key="d3">56.0163011</data>
+  <data key="d4">92.7810643</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="1305622669">
+  <data key="d3">56.0173487</data>
+  <data key="d4">92.7919278</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="1306060425">
+  <data key="d3">56.0190355</data>
+  <data key="d4">92.7950629</data>
+  <data key="d6">3</data>
+</node>
+<node id="1306060434">
+  <data key="d3">56.0189655</data>
+  <data key="d4">92.7938552</data>
+  <data key="d6">2</data>
+</node>
+<node id="1306060442">
+  <data key="d3">56.0189228</data>
+  <data key="d4">92.7944341</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="1306060455">
+  <data key="d3">56.0136863</data>
+  <data key="d4">92.7925754</data>
+  <data key="d6">2</data>
+</node>
+<node id="1306060482">
+  <data key="d3">56.0189708</data>
+  <data key="d4">92.7946895</data>
+  <data key="d6">2</data>
+</node>
+<node id="1306060496">
+  <data key="d3">56.0190174</data>
+  <data key="d4">92.7935935</data>
+  <data key="d6">3</data>
+</node>
+<node id="1381659836">
+  <data key="d3">56.0181784</data>
+  <data key="d4">92.7867345</data>
+  <data key="d6">2</data>
+</node>
+<node id="1381659882">
+  <data key="d3">56.0193858</data>
+  <data key="d4">92.7849267</data>
+  <data key="d6">2</data>
+</node>
+<node id="1381659884">
+  <data key="d3">56.0192938</data>
+  <data key="d4">92.7847444</data>
+  <data key="d6">2</data>
+</node>
+<node id="1533974980">
+  <data key="d3">56.0149366</data>
+  <data key="d4">92.8004197</data>
+  <data key="d6">3</data>
+</node>
+<node id="1533974982">
+  <data key="d3">56.0150086</data>
+  <data key="d4">92.8005356</data>
+  <data key="d6">2</data>
+</node>
+<node id="2259821925">
+  <data key="d3">56.0151989</data>
+  <data key="d4">92.7918259</data>
+  <data key="d6">2</data>
+</node>
+<node id="2259821976">
+  <data key="d3">56.015783</data>
+  <data key="d4">92.7924196</data>
+  <data key="d6">1</data>
+</node>
+<node id="2391555440">
+  <data key="d3">56.0155472</data>
+  <data key="d4">92.7798879</data>
+  <data key="d6">2</data>
+</node>
+<node id="2391555445">
+  <data key="d3">56.0157552</data>
+  <data key="d4">92.7799433</data>
+  <data key="d6">2</data>
+</node>
+<node id="2391555450">
+  <data key="d3">56.0159562</data>
+  <data key="d4">92.7799948</data>
+  <data key="d6">2</data>
+</node>
+<node id="2432279475">
+  <data key="d3">56.0162445</data>
+  <data key="d4">92.7971641</data>
+  <data key="d6">2</data>
+</node>
+<node id="2432279480">
+  <data key="d3">56.0145422</data>
+  <data key="d4">92.794621</data>
+  <data key="d6">2</data>
+</node>
+<node id="2432279482">
+  <data key="d3">56.0158872</data>
+  <data key="d4">92.7943647</data>
+  <data key="d6">2</data>
+</node>
+<node id="2432279486">
+  <data key="d3">56.0165364</data>
+  <data key="d4">92.797636</data>
+  <data key="d6">3</data>
+</node>
+<node id="2432279491">
+  <data key="d3">56.0152138</data>
+  <data key="d4">92.7954795</data>
+  <data key="d6">2</data>
+</node>
+<node id="2432279492">
+  <data key="d3">56.0165897</data>
+  <data key="d4">92.795252</data>
+  <data key="d6">2</data>
+</node>
+<node id="2445637167">
+  <data key="d3">56.01771</data>
+  <data key="d4">92.7926166</data>
+  <data key="d6">2</data>
+</node>
+<node id="2445637171">
+  <data key="d3">56.0170418</data>
+  <data key="d4">92.7913348</data>
+  <data key="d6">2</data>
+</node>
+<node id="2445637177">
+  <data key="d3">56.0179059</data>
+  <data key="d4">92.7929829</data>
+  <data key="d6">2</data>
+</node>
+<node id="2531863912">
+  <data key="d3">56.0142712</data>
+  <data key="d4">92.7861169</data>
+  <data key="d6">2</data>
+</node>
+<node id="3086014940">
+  <data key="d3">56.0193101</data>
+  <data key="d4">92.7931023</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="3086014961">
+  <data key="d3">56.0196225</data>
+  <data key="d4">92.7893927</data>
+  <data key="d6">2</data>
+</node>
+<node id="3086014962">
+  <data key="d3">56.0173234</data>
+  <data key="d4">92.7872403</data>
+  <data key="d6">2</data>
+</node>
+<node id="3086014977">
+  <data key="d3">56.0187824</data>
+  <data key="d4">92.7878831</data>
+  <data key="d6">2</data>
+</node>
+<node id="3134535955">
+  <data key="d3">56.017914</data>
+  <data key="d4">92.7952861</data>
+  <data key="d6">2</data>
+</node>
+<node id="3134535956">
+  <data key="d3">56.0162035</data>
+  <data key="d4">92.7897803</data>
+  <data key="d6">2</data>
+</node>
+<node id="3134535959">
+  <data key="d3">56.0181262</data>
+  <data key="d4">92.7933965</data>
+  <data key="d6">2</data>
+</node>
+<node id="3134535960">
+  <data key="d3">56.0170017</data>
+  <data key="d4">92.7912669</data>
+  <data key="d6">2</data>
+</node>
+<node id="3134535969">
+  <data key="d3">56.0166545</data>
+  <data key="d4">92.7906259</data>
+  <data key="d6">2</data>
+</node>
+<node id="3289974608">
+  <data key="d3">56.0162806</data>
+  <data key="d4">92.7890218</data>
+  <data key="d6">2</data>
+</node>
+<node id="3289974616">
+  <data key="d3">56.0170961</data>
+  <data key="d4">92.7876408</data>
+  <data key="d6">2</data>
+</node>
+<node id="3725538144">
+  <data key="d3">56.0155611</data>
+  <data key="d4">92.7993457</data>
+  <data key="d6">2</data>
+</node>
+<node id="3725539681">
+  <data key="d3">56.0163596</data>
+  <data key="d4">92.7973486</data>
+  <data key="d6">2</data>
+</node>
+<node id="3725549434">
+  <data key="d3">56.0159383</data>
+  <data key="d4">92.7966601</data>
+  <data key="d6">2</data>
+</node>
+<node id="3764970932">
+  <data key="d3">56.0144824</data>
+  <data key="d4">92.7932424</data>
+  <data key="d6">1</data>
+</node>
+<node id="3774629284">
+  <data key="d3">56.0142306</data>
+  <data key="d4">92.7941272</data>
+  <data key="d6">2</data>
+</node>
+<node id="3774633937">
+  <data key="d3">56.0155109</data>
+  <data key="d4">92.7959793</data>
+  <data key="d6">2</data>
+</node>
+<node id="3868632094">
+  <data key="d3">56.0163929</data>
+  <data key="d4">92.7979775</data>
+  <data key="d5">crossing</data>
+  <data key="d6">3</data>
+</node>
+<node id="3868632095">
+  <data key="d3">56.0184689</data>
+  <data key="d4">92.7940372</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="4074811743">
+  <data key="d3">56.0160907</data>
+  <data key="d4">92.7828246</data>
+  <data key="d6">2</data>
+</node>
+<node id="4074811749">
+  <data key="d3">56.0157568</data>
+  <data key="d4">92.7860637</data>
+  <data key="d6">2</data>
+</node>
+<node id="4074820177">
+  <data key="d3">56.0150278</data>
+  <data key="d4">92.7875153</data>
+  <data key="d6">2</data>
+</node>
+<node id="4074820179">
+  <data key="d3">56.015852</data>
+  <data key="d4">92.7852072</data>
+  <data key="d6">2</data>
+</node>
+<node id="5092359797">
+  <data key="d3">56.0147008</data>
+  <data key="d4">92.8005638</data>
+  <data key="d6">2</data>
+</node>
+<node id="5137417404">
+  <data key="d3">56.015325</data>
+  <data key="d4">92.7997336</data>
+  <data key="d6">2</data>
+</node>
+<node id="5579089684">
+  <data key="d3">56.0182397</data>
+  <data key="d4">92.7868489</data>
+  <data key="d6">2</data>
+</node>
+<node id="5579089689">
+  <data key="d3">56.0192774</data>
+  <data key="d4">92.7887557</data>
+  <data key="d6">2</data>
+</node>
+<node id="5579107686">
+  <data key="d3">56.015394</data>
+  <data key="d4">92.78824</data>
+  <data key="d6">2</data>
+</node>
+<node id="5579107721">
+  <data key="d3">56.0174739</data>
+  <data key="d4">92.7921709</data>
+  <data key="d6">2</data>
+</node>
+<node id="5708761295">
+  <data key="d3">56.0196991</data>
+  <data key="d4">92.7924447</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="5708761319">
+  <data key="d3">56.017186</data>
+  <data key="d4">92.7962188</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="5939240509">
+  <data key="d3">56.016468</data>
+  <data key="d4">92.797526</data>
+  <data key="d6">2</data>
+</node>
+<node id="5939243027">
+  <data key="d3">56.0187328</data>
+  <data key="d4">92.7940673</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="5940067642">
+  <data key="d3">56.013574</data>
+  <data key="d4">92.7925944</data>
+  <data key="d6">2</data>
+</node>
+<node id="5940067658">
+  <data key="d3">56.013644</data>
+  <data key="d4">92.7926136</data>
+  <data key="d6">2</data>
+</node>
+<node id="7028285131">
+  <data key="d3">56.0168976</data>
+  <data key="d4">92.7956951</data>
+  <data key="d6">2</data>
+</node>
+<node id="7034903436">
+  <data key="d3">56.0189475</data>
+  <data key="d4">92.7882029</data>
+  <data key="d6">2</data>
+</node>
+<node id="7034903442">
+  <data key="d3">56.0195543</data>
+  <data key="d4">92.7892667</data>
+  <data key="d6">2</data>
+</node>
+<node id="7034903449">
+  <data key="d3">56.0196656</data>
+  <data key="d4">92.7854221</data>
+  <data key="d6">2</data>
+</node>
+<node id="7429897999">
+  <data key="d3">56.0142412</data>
+  <data key="d4">92.7942239</data>
+  <data key="d6">2</data>
+</node>
+<node id="7429898001">
+  <data key="d3">56.015334</data>
+  <data key="d4">92.7918186</data>
+  <data key="d6">2</data>
+</node>
+<node id="7429898003">
+  <data key="d3">56.0152649</data>
+  <data key="d4">92.7917888</data>
+  <data key="d6">2</data>
+</node>
+<node id="7450748973">
+  <data key="d3">56.0171237</data>
+  <data key="d4">92.7961053</data>
+  <data key="d6">2</data>
+</node>
+<node id="7598900083">
+  <data key="d3">56.0189244</data>
+  <data key="d4">92.7940983</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088441209">
+  <data key="d3">56.015016</data>
+  <data key="d4">92.8003884</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088442223">
+  <data key="d3">56.0168271</data>
+  <data key="d4">92.7973495</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088442224">
+  <data key="d3">56.0173315</data>
+  <data key="d4">92.7964719</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088442225">
+  <data key="d3">56.0184076</data>
+  <data key="d4">92.7944755</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088442226">
+  <data key="d3">56.0184795</data>
+  <data key="d4">92.7946202</data>
+  <data key="d6">2</data>
+</node>
+<node id="8088442227">
+  <data key="d3">56.0166044</data>
+  <data key="d4">92.7977351</data>
+  <data key="d6">2</data>
+</node>
+<node id="8096724864">
+  <data key="d3">56.0162365</data>
+  <data key="d4">92.7815104</data>
+  <data key="d6">2</data>
+</node>
+<node id="8348314583">
+  <data key="d3">56.0163877</data>
+  <data key="d4">92.7805131</data>
+  <data key="d6">2</data>
+</node>
+<node id="8348314585">
+  <data key="d3">56.0161789</data>
+  <data key="d4">92.7819902</data>
+  <data key="d6">2</data>
+</node>
+<node id="8410740160">
+  <data key="d3">56.0161391</data>
+  <data key="d4">92.7892604</data>
+  <data key="d6">2</data>
+</node>
+<node id="8410740177">
+  <data key="d3">56.0187042</data>
+  <data key="d4">92.7944521</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="8410740178">
+  <data key="d3">56.0160117</data>
+  <data key="d4">92.7898229</data>
+  <data key="d6">2</data>
+</node>
+<node id="8680701746">
+  <data key="d3">56.0189151</data>
+  <data key="d4">92.794315</data>
+  <data key="d6">2</data>
+</node>
+<node id="8750850875">
+  <data key="d3">56.0137285</data>
+  <data key="d4">92.7925051</data>
+  <data key="d6">2</data>
+</node>
+<node id="8785515331">
+  <data key="d3">56.0148901</data>
+  <data key="d4">92.7874436</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="8785515332">
+  <data key="d3">56.0156457</data>
+  <data key="d4">92.7870091</data>
+  <data key="d6">2</data>
+</node>
+<node id="8785515341">
+  <data key="d3">56.0155087</data>
+  <data key="d4">92.7881453</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="8785515342">
+  <data key="d3">56.0161408</data>
+  <data key="d4">92.7892586</data>
+  <data key="d6">2</data>
+</node>
+<node id="8788291396">
+  <data key="d3">56.0175183</data>
+  <data key="d4">92.7868968</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="8807414939">
+  <data key="d3">56.0190152</data>
+  <data key="d4">92.7948986</data>
+  <data key="d6">2</data>
+</node>
+<node id="9134621158">
+  <data key="d3">56.0170576</data>
+  <data key="d4">92.7877047</data>
+  <data key="d6">2</data>
+</node>
+<node id="9134621159">
+  <data key="d3">56.0179298</data>
+  <data key="d4">92.7861729</data>
+  <data key="d6">2</data>
+</node>
+<node id="9134621160">
+  <data key="d3">56.0182385</data>
+  <data key="d4">92.7856421</data>
+  <data key="d5">crossing</data>
+  <data key="d6">2</data>
+</node>
+<node id="9134621163">
+  <data key="d3">56.0190755</data>
+  <data key="d4">92.7842051</data>
+  <data key="d6">2</data>
+</node>
+<node id="9482865208">
+  <data key="d3">56.0163318</data>
+  <data key="d4">92.7973041</data>
+  <data key="d6">2</data>
+</node>
+<node id="9730715576">
+  <data key="d3">56.0197478</data>
+  <data key="d4">92.785573</data>
+  <data key="d6">2</data>
+</node>
+<node id="10099899648">
+  <data key="d3">56.0159255</data>
+  <data key="d4">92.7844738</data>
+  <data key="d6">2</data>
+</node>
+<edge source="315787799" target="5939243027" id="0">
+  <data key="d7">111081962</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">18.947</data>
+</edge>
+<edge source="315787799" target="8410740177" id="0">
+  <data key="d7">246108015</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">15.453</data>
+</edge>
+<edge source="315787799" target="3868632095" id="0">
+  <data key="d7">308162730</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.289</data>
+</edge>
+<edge source="315787799" target="8088442225" id="0">
+  <data key="d7">775890191</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">25.512</data>
+</edge>
+<edge source="346110684" target="8785515341" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">14.695</data>
+</edge>
+<edge source="346110684" target="346112280" id="0">
+  <data key="d7">438280739</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">89.761</data>
+</edge>
+<edge source="346110684" target="5579107686" id="0">
+  <data key="d7">726026705</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.143</data>
+</edge>
+<edge source="346112168" target="1381659836" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">44.318</data>
+</edge>
+<edge source="346112168" target="9134621159" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">3.997</data>
+</edge>
+<edge source="346112168" target="8788291396" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">60.174</data>
+</edge>
+<edge source="346112280" target="1305622625" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">7.723</data>
+</edge>
+<edge source="346112280" target="346110684" id="0">
+  <data key="d7">438280739</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">89.761</data>
+</edge>
+<edge source="346112280" target="8410740160" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">16.432</data>
+</edge>
+<edge source="346112282" target="8785515331" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">9.028</data>
+</edge>
+<edge source="346112282" target="4074820177" id="0">
+  <data key="d7">232294304</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">17.476</data>
+</edge>
+<edge source="346112282" target="2531863912" id="0">
+  <data key="d7">691838623</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">103.495</data>
+</edge>
+<edge source="346112284" target="2531863912" id="0">
+  <data key="d7">691838623</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">84.17</data>
+</edge>
+<edge source="357993030" target="9134621158" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">57.161</data>
+</edge>
+<edge source="357993030" target="3289974608" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">61.866</data>
+</edge>
+<edge source="358000023" target="2391555450" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">55.475</data>
+</edge>
+<edge source="358000023" target="8348314583" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">22.735</data>
+</edge>
+<edge source="418534601" target="1533974980" id="0">
+  <data key="d7">221156225</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.061</data>
+</edge>
+<edge source="418534601" target="5137417404" id="0">
+  <data key="d7">232294302</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">39.634</data>
+</edge>
+<edge source="418534645" target="418534649" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">93.328</data>
+</edge>
+<edge source="418534645" target="3764970932" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">130.898</data>
+</edge>
+<edge source="418534649" target="8410740178" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">48.637</data>
+</edge>
+<edge source="418534649" target="418534645" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">93.328</data>
+</edge>
+<edge source="429527125" target="1381659884" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">41.087</data>
+</edge>
+<edge source="429527125" target="9134621163" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">6.669</data>
+</edge>
+<edge source="429527125" target="9134621160" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">122.321</data>
+</edge>
+<edge source="518840514" target="3134535956" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">12.712</data>
+</edge>
+<edge source="518840514" target="1305622625" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">8.159</data>
+</edge>
+<edge source="518840514" target="8410740178" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">17.261</data>
+</edge>
+<edge source="763928475" target="763928498" id="0">
+  <data key="d7">221156217</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">34.241</data>
+</edge>
+<edge source="763928498" target="763928475" id="0">
+  <data key="d7">221156217</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">34.241</data>
+</edge>
+<edge source="763928498" target="1306060425" id="0">
+  <data key="d7">221156217</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">80.841</data>
+</edge>
+<edge source="1111843672" target="7028285131" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">11.509</data>
+</edge>
+<edge source="1111843672" target="2432279492" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">32.532</data>
+</edge>
+<edge source="1111843829" target="2432279482" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">155.985</data>
+</edge>
+<edge source="1111843829" target="2259821925" id="0">
+  <data key="d7">374057921</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">78.928</data>
+</edge>
+<edge source="1111843829" target="3774629284" id="0">
+  <data key="d7">374057921</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">100.105</data>
+</edge>
+<edge source="1111843880" target="5708761319" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">10.96</data>
+</edge>
+<edge source="1111843880" target="2432279486" id="0">
+  <data key="d7">775890189</data>
+  <data key="d12">True</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">113.925</data>
+</edge>
+<edge source="1305622625" target="518840514" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">8.159</data>
+</edge>
+<edge source="1305622625" target="346112280" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">7.723</data>
+</edge>
+<edge source="1305622654" target="8348314583" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.586</data>
+</edge>
+<edge source="1305622654" target="8096724864" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">28.642</data>
+</edge>
+<edge source="1305622669" target="5579107721" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">20.545</data>
+</edge>
+<edge source="1305622669" target="2445637171" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">50.229</data>
+</edge>
+<edge source="1306060425" target="8807414939" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">10.458</data>
+</edge>
+<edge source="1306060425" target="763928498" id="0">
+  <data key="d7">221156217</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">80.841</data>
+</edge>
+<edge source="1306060425" target="8410740177" id="0">
+  <data key="d7">246108015</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">52.897</data>
+</edge>
+<edge source="1306060434" target="1306060496" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">17.258</data>
+</edge>
+<edge source="1306060442" target="8680701746" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">7.451</data>
+</edge>
+<edge source="1306060455" target="5940067658" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">5.269</data>
+</edge>
+<edge source="1306060455" target="8750850875" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">6.412</data>
+</edge>
+<edge source="1306060482" target="1306060442" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">16.746</data>
+</edge>
+<edge source="1306060496" target="5939243027" id="0">
+  <data key="d7">111081962</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">43.227</data>
+</edge>
+<edge source="1306060496" target="3086014940" id="0">
+  <data key="d7">221156216</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">44.623</data>
+</edge>
+<edge source="1381659836" target="346112168" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">44.318</data>
+</edge>
+<edge source="1381659836" target="5579089684" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">9.85</data>
+</edge>
+<edge source="1381659882" target="1381659884" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">15.265</data>
+</edge>
+<edge source="1381659882" target="7034903449" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">43.771</data>
+</edge>
+<edge source="1381659884" target="429527125" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">41.087</data>
+</edge>
+<edge source="1381659884" target="1381659882" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">15.265</data>
+</edge>
+<edge source="1533974980" target="5092359797" id="0">
+  <data key="d7">139982960</data>
+  <data key="d12">True</data>
+  <data key="d8">1</data>
+  <data key="d10">secondary_link</data>
+  <data key="d13">False</data>
+  <data key="d14">27.707</data>
+</edge>
+<edge source="1533974980" target="418534601" id="0">
+  <data key="d7">221156225</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.061</data>
+</edge>
+<edge source="1533974982" target="8088441209" id="0">
+  <data key="d7">139982957</data>
+  <data key="d12">True</data>
+  <data key="d8">1</data>
+  <data key="d10">secondary_link</data>
+  <data key="d13">False</data>
+  <data key="d14">9.186</data>
+</edge>
+<edge source="2259821925" target="7429898003" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">7.693</data>
+</edge>
+<edge source="2259821925" target="1111843829" id="0">
+  <data key="d7">374057921</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">78.928</data>
+</edge>
+<edge source="2259821976" target="7429898001" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">62.354</data>
+</edge>
+<edge source="2391555440" target="2391555445" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">23.383</data>
+</edge>
+<edge source="2391555445" target="2391555440" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">23.383</data>
+</edge>
+<edge source="2391555445" target="2391555450" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">22.578</data>
+</edge>
+<edge source="2391555450" target="2391555445" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">22.578</data>
+</edge>
+<edge source="2391555450" target="358000023" id="0">
+  <data key="d7">31959524</data>
+  <data key="d8">2</data>
+  <data key="d9">Вербная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">55.475</data>
+</edge>
+<edge source="2432279475" target="3725549434" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">46.266</data>
+</edge>
+<edge source="2432279475" target="9482865208" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.036</data>
+</edge>
+<edge source="2432279480" target="7429897999" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">41.587</data>
+</edge>
+<edge source="2432279480" target="2432279491" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">91.784</data>
+</edge>
+<edge source="2432279482" target="2432279492" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">95.62</data>
+</edge>
+<edge source="2432279482" target="1111843829" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">155.985</data>
+</edge>
+<edge source="2432279486" target="5939240509" id="0">
+  <data key="d7">235142690</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">10.227</data>
+</edge>
+<edge source="2432279486" target="3868632094" id="0">
+  <data key="d7">867753439</data>
+  <data key="d12">True</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">26.554</data>
+</edge>
+<edge source="2432279491" target="2432279480" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">91.784</data>
+</edge>
+<edge source="2432279491" target="3774633937" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">45.348</data>
+</edge>
+<edge source="2432279492" target="1111843672" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">32.532</data>
+</edge>
+<edge source="2432279492" target="2432279482" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">95.62</data>
+</edge>
+<edge source="2445637167" target="2445637177" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">31.509</data>
+</edge>
+<edge source="2445637167" target="5579107721" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">38.165</data>
+</edge>
+<edge source="2445637171" target="1305622669" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">50.229</data>
+</edge>
+<edge source="2445637171" target="3134535960" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">6.139</data>
+</edge>
+<edge source="2445637177" target="3134535959" id="0">
+  <data key="d7">246108014</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.508</data>
+</edge>
+<edge source="2445637177" target="2445637167" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">31.509</data>
+</edge>
+<edge source="2531863912" target="346112282" id="0">
+  <data key="d7">691838623</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">103.495</data>
+</edge>
+<edge source="2531863912" target="346112284" id="0">
+  <data key="d7">691838623</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">84.17</data>
+</edge>
+<edge source="3086014940" target="1306060496" id="0">
+  <data key="d7">221156216</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">44.623</data>
+</edge>
+<edge source="3086014940" target="5708761295" id="0">
+  <data key="d7">713843841</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">59.508</data>
+</edge>
+<edge source="3086014961" target="7034903442" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">10.901</data>
+</edge>
+<edge source="3086014962" target="8788291396" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.421</data>
+</edge>
+<edge source="3086014962" target="3289974616" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.474</data>
+</edge>
+<edge source="3086014977" target="5579089684" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">88.164</data>
+</edge>
+<edge source="3086014977" target="7034903436" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">27.057</data>
+</edge>
+<edge source="3134535955" target="1111843880" id="0">
+  <data key="d7">246108032</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">97.809</data>
+</edge>
+<edge source="3134535956" target="3134535969" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">72.644</data>
+</edge>
+<edge source="3134535956" target="518840514" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">12.712</data>
+</edge>
+<edge source="3134535959" target="2445637177" id="0">
+  <data key="d7">246108014</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.508</data>
+</edge>
+<edge source="3134535959" target="3868632095" id="0">
+  <data key="d7">308162730</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">55.115</data>
+</edge>
+<edge source="3134535960" target="2445637171" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">6.139</data>
+</edge>
+<edge source="3134535960" target="3134535969" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">55.477</data>
+</edge>
+<edge source="3134535969" target="3134535960" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">55.477</data>
+</edge>
+<edge source="3134535969" target="3134535956" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">72.644</data>
+</edge>
+<edge source="3289974608" target="357993030" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">61.866</data>
+</edge>
+<edge source="3289974608" target="8785515342" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">21.407</data>
+</edge>
+<edge source="3289974616" target="3086014962" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.474</data>
+</edge>
+<edge source="3289974616" target="9134621158" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">5.84</data>
+</edge>
+<edge source="3725538144" target="5137417404" id="0">
+  <data key="d7">775890187</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.644</data>
+</edge>
+<edge source="3725538144" target="3868632094" id="0">
+  <data key="d7">775890188</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">125.644</data>
+</edge>
+<edge source="3725539681" target="5939240509" id="0">
+  <data key="d7">235142690</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">16.336</data>
+</edge>
+<edge source="3725539681" target="9482865208" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">4.148</data>
+</edge>
+<edge source="3725549434" target="3774633937" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">63.633</data>
+</edge>
+<edge source="3725549434" target="2432279475" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">46.266</data>
+</edge>
+<edge source="3764970932" target="418534645" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">130.898</data>
+</edge>
+<edge source="3774629284" target="1111843829" id="0">
+  <data key="d7">374057921</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">100.105</data>
+</edge>
+<edge source="3774629284" target="7429897999" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">6.125</data>
+</edge>
+<edge source="3774633937" target="2432279491" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">45.348</data>
+</edge>
+<edge source="3774633937" target="3725549434" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">63.633</data>
+</edge>
+<edge source="3868632094" target="3725538144" id="0">
+  <data key="d7">775890188</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">125.644</data>
+</edge>
+<edge source="3868632094" target="8088442227" id="0">
+  <data key="d7">867753435</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">27.93</data>
+</edge>
+<edge source="3868632095" target="315787799" id="0">
+  <data key="d7">308162730</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.289</data>
+</edge>
+<edge source="3868632095" target="3134535959" id="0">
+  <data key="d7">308162730</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">55.115</data>
+</edge>
+<edge source="4074811743" target="8348314585" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">52.78</data>
+</edge>
+<edge source="4074811743" target="10099899648" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">104.137</data>
+</edge>
+<edge source="4074811749" target="8785515332" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">60.045</data>
+</edge>
+<edge source="4074811749" target="4074820179" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">54.277</data>
+</edge>
+<edge source="4074820177" target="346112282" id="0">
+  <data key="d7">232294304</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">17.476</data>
+</edge>
+<edge source="4074820177" target="5579107686" id="0">
+  <data key="d7">699312695</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">60.721</data>
+</edge>
+<edge source="4074820179" target="10099899648" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">46.311</data>
+</edge>
+<edge source="4074820179" target="4074811749" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">54.277</data>
+</edge>
+<edge source="5137417404" target="418534601" id="0">
+  <data key="d7">232294302</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">39.634</data>
+</edge>
+<edge source="5137417404" target="3725538144" id="0">
+  <data key="d7">775890187</data>
+  <data key="d8">4</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.644</data>
+</edge>
+<edge source="5579089684" target="1381659836" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">9.85</data>
+</edge>
+<edge source="5579089684" target="3086014977" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">88.164</data>
+</edge>
+<edge source="5579089689" target="7034903436" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">50.259</data>
+</edge>
+<edge source="5579089689" target="7034903442" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">44.233</data>
+</edge>
+<edge source="5579107686" target="4074820177" id="0">
+  <data key="d7">699312695</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">60.721</data>
+</edge>
+<edge source="5579107686" target="346110684" id="0">
+  <data key="d7">726026705</data>
+  <data key="d8">5</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.143</data>
+</edge>
+<edge source="5579107721" target="2445637167" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">38.165</data>
+</edge>
+<edge source="5579107721" target="1305622669" id="0">
+  <data key="d7">246108019</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">20.545</data>
+</edge>
+<edge source="5708761295" target="3086014940" id="0">
+  <data key="d7">713843841</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">59.508</data>
+</edge>
+<edge source="5708761319" target="1111843880" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">10.96</data>
+</edge>
+<edge source="5708761319" target="7450748973" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">9.887</data>
+</edge>
+<edge source="5939240509" target="3725539681" id="0">
+  <data key="d7">235142690</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">16.336</data>
+</edge>
+<edge source="5939240509" target="2432279486" id="0">
+  <data key="d7">235142690</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">10.227</data>
+</edge>
+<edge source="5939243027" target="1306060496" id="0">
+  <data key="d7">111081962</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">43.227</data>
+</edge>
+<edge source="5939243027" target="315787799" id="0">
+  <data key="d7">111081962</data>
+  <data key="d8">6</data>
+  <data key="d9">Высотная улица</data>
+  <data key="d10">primary</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">18.947</data>
+</edge>
+<edge source="5940067642" target="5940067658" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">7.875</data>
+</edge>
+<edge source="5940067658" target="5940067642" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">7.875</data>
+</edge>
+<edge source="5940067658" target="1306060455" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">5.269</data>
+</edge>
+<edge source="7028285131" target="7450748973" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">35.806</data>
+</edge>
+<edge source="7028285131" target="1111843672" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">11.509</data>
+</edge>
+<edge source="7034903436" target="3086014977" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">27.057</data>
+</edge>
+<edge source="7034903436" target="5579089689" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">50.259</data>
+</edge>
+<edge source="7034903442" target="5579089689" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">44.233</data>
+</edge>
+<edge source="7034903442" target="3086014961" id="0">
+  <data key="d7">31127731</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Можайского</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">10.901</data>
+</edge>
+<edge source="7034903449" target="1381659882" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">43.771</data>
+</edge>
+<edge source="7034903449" target="9730715576" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">13.096</data>
+</edge>
+<edge source="7429897999" target="3774629284" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">6.125</data>
+</edge>
+<edge source="7429897999" target="2432279480" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">41.587</data>
+</edge>
+<edge source="7429898001" target="2259821976" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">62.354</data>
+</edge>
+<edge source="7429898001" target="7429898003" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">7.904</data>
+</edge>
+<edge source="7429898003" target="7429898001" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">7.904</data>
+</edge>
+<edge source="7429898003" target="2259821925" id="0">
+  <data key="d7">216589994</data>
+  <data key="d9">улица Осипенко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">7.693</data>
+</edge>
+<edge source="7450748973" target="5708761319" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">9.887</data>
+</edge>
+<edge source="7450748973" target="7028285131" id="0">
+  <data key="d7">95956764</data>
+  <data key="d9">улица Кравченко</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.806</data>
+</edge>
+<edge source="7598900083" target="1306060434" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">15.785</data>
+</edge>
+<edge source="8088441209" target="418534601" id="0">
+  <data key="d7">139982957</data>
+  <data key="d12">True</data>
+  <data key="d8">1</data>
+  <data key="d10">secondary_link</data>
+  <data key="d13">False</data>
+  <data key="d14">14.228</data>
+</edge>
+<edge source="8088442223" target="8088442224" id="0">
+  <data key="d7">867753435</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">78.236</data>
+</edge>
+<edge source="8088442224" target="8088442226" id="0">
+  <data key="d7">867753435</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">171.87</data>
+</edge>
+<edge source="8088442225" target="3134535955" id="0">
+  <data key="d7">775890191</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">74.502</data>
+</edge>
+<edge source="8088442226" target="315787799" id="0">
+  <data key="d7">867753435</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">25.807</data>
+</edge>
+<edge source="8088442227" target="8088442223" id="0">
+  <data key="d7">867753435</data>
+  <data key="d12">True</data>
+  <data key="d8">6</data>
+  <data key="d9">улица Михаила Годенко</data>
+  <data key="d10">primary</data>
+  <data key="d11">60</data>
+  <data key="d13">False</data>
+  <data key="d14">34.461</data>
+</edge>
+<edge source="8096724864" target="1305622654" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">28.642</data>
+</edge>
+<edge source="8096724864" target="8348314585" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.501</data>
+</edge>
+<edge source="8348314583" target="358000023" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">22.735</data>
+</edge>
+<edge source="8348314583" target="1305622654" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">35.586</data>
+</edge>
+<edge source="8348314585" target="8096724864" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">30.501</data>
+</edge>
+<edge source="8348314585" target="4074811743" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">52.78</data>
+</edge>
+<edge source="8410740160" target="8785515342" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">0.22</data>
+</edge>
+<edge source="8410740160" target="346112280" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">16.432</data>
+</edge>
+<edge source="8410740177" target="1306060425" id="0">
+  <data key="d7">246108015</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">52.897</data>
+</edge>
+<edge source="8410740177" target="315787799" id="0">
+  <data key="d7">246108015</data>
+  <data key="d8">4</data>
+  <data key="d9">Свободный проспект</data>
+  <data key="d10">secondary</data>
+  <data key="d11">60</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">15.453</data>
+</edge>
+<edge source="8410740178" target="518840514" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">17.261</data>
+</edge>
+<edge source="8410740178" target="418534649" id="0">
+  <data key="d7">372942400</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Луначарского</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">48.637</data>
+</edge>
+<edge source="8680701746" target="7598900083" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">13.507</data>
+</edge>
+<edge source="8750850875" target="1306060455" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">6.412</data>
+</edge>
+<edge source="8750850875" target="8785515331" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">340.088</data>
+</edge>
+<edge source="8785515331" target="8750850875" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">False</data>
+  <data key="d14">340.088</data>
+</edge>
+<edge source="8785515331" target="346112282" id="0">
+  <data key="d7">35799020</data>
+  <data key="d12">False</data>
+  <data key="d10">residential</data>
+  <data key="d13">True</data>
+  <data key="d14">9.028</data>
+</edge>
+<edge source="8785515332" target="4074811749" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">60.045</data>
+</edge>
+<edge source="8785515332" target="8785515341" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">72.244</data>
+</edge>
+<edge source="8785515341" target="8785515332" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">72.244</data>
+</edge>
+<edge source="8785515341" target="346110684" id="0">
+  <data key="d7">31960354</data>
+  <data key="d8">4</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">14.695</data>
+</edge>
+<edge source="8785515342" target="3289974608" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">21.407</data>
+</edge>
+<edge source="8785515342" target="8410740160" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">0.22</data>
+</edge>
+<edge source="8788291396" target="346112168" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">60.174</data>
+</edge>
+<edge source="8788291396" target="3086014962" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">30.421</data>
+</edge>
+<edge source="8807414939" target="1306060482" id="0">
+  <data key="d7">115657571</data>
+  <data key="d12">True</data>
+  <data key="d8">2</data>
+  <data key="d10">secondary_link</data>
+  <data key="d11">RU:urban</data>
+  <data key="d13">False</data>
+  <data key="d14">13.902</data>
+</edge>
+<edge source="9134621158" target="357993030" id="0">
+  <data key="d7">988249945</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">57.161</data>
+</edge>
+<edge source="9134621158" target="3289974616" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">5.84</data>
+</edge>
+<edge source="9134621159" target="346112168" id="0">
+  <data key="d7">988249947</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">3.997</data>
+</edge>
+<edge source="9134621159" target="9134621160" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">47.609</data>
+</edge>
+<edge source="9134621160" target="429527125" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">122.321</data>
+</edge>
+<edge source="9134621160" target="9134621159" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">47.609</data>
+</edge>
+<edge source="9134621163" target="429527125" id="0">
+  <data key="d7">988249948</data>
+  <data key="d8">2</data>
+  <data key="d9">улица Курчатова</data>
+  <data key="d10">residential</data>
+  <data key="d11">40</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">6.669</data>
+</edge>
+<edge source="9482865208" target="2432279475" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.036</data>
+</edge>
+<edge source="9482865208" target="3725539681" id="0">
+  <data key="d7">775890190</data>
+  <data key="d9">1-я Внутриквартальная улица</data>
+  <data key="d10">residential</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">4.148</data>
+</edge>
+<edge source="9730715576" target="7034903449" id="0">
+  <data key="d7">60352531</data>
+  <data key="d8">2</data>
+  <data key="d9">1-я Хабаровская улица</data>
+  <data key="d10">residential</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">13.096</data>
+</edge>
+<edge source="10099899648" target="4074811743" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">False</data>
+  <data key="d14">104.137</data>
+</edge>
+<edge source="10099899648" target="4074820179" id="0">
+  <data key="d7">246108008</data>
+  <data key="d8">2</data>
+  <data key="d9">Лесопарковая улица</data>
+  <data key="d10">secondary</data>
+  <data key="d11">RU:urban</data>
+  <data key="d12">False</data>
+  <data key="d13">True</data>
+  <data key="d14">46.311</data>
+</edge>
+</graph></graphml>
